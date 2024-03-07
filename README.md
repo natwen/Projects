@@ -1,3 +1,3 @@
 # Projects
 
-Some exercises I've made using concurrent programming. 
+Space Invader I made using Python and Object programming.
